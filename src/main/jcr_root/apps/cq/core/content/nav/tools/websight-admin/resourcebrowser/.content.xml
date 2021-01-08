@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:description="Manage all sling resources in one place."
+    jcr:primaryType="nt:unstructured"
+    jcr:title="Resource Browser"
+    href="/apps/browser"
+    icon="gearsEdit"
+    id="websight-admin__resourcebrowser"/>
